@@ -7,7 +7,7 @@
 0 and 99
 - Step 0.7, rules that passed, p(95), p(99), exit code after your change: 
 99
-- Step 0.8, what was wrong, and how the checks showed it: 
+- Step 0.8, what was wrong, and how the checks showed it: Case-sensitive ตัว P->p, K->k; นั่งดูใน explore.js
   
 ## Part A results 
 | Step | Test type    | Users | Req/s | p(95) | Max | Failed | Checks | 
